@@ -1,0 +1,1 @@
+# Simple-Na-ve-Bayesian-Classifier-on-Diabetic-Dataset-
